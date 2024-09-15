@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NBA</string>
+    <string name="la">LOS Angeles Lakers</string>
+    <string name="latitle">17 Times Champions</string>
+    <string name="bc">Boston Celtics</string>
+    <string name="bctitle">18 Times Champions</string>
+    <string name="gsw">Golden State Warriors</string>
+    <string name="gswtitle">7 Times Champions</string>
+</resources>
